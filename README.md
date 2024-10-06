@@ -8,7 +8,9 @@ This repository contains examples for integrating **Google reCAPTCHA v2** and **
 The repository is divided into two main sections:
 
 - **[recaptcha-v2](./recaptcha-v2/)**: Example for integrating Google reCAPTCHA v2 (checkbox-based).
+![reCAPTCHA v2](./images/recaptcha-v2.png)
 - **[recaptcha-v3](./recaptcha-v3/)**: Example for integrating Google reCAPTCHA v3 (score-based, no user interaction).
+![reCAPTCHA v2](./images/recaptcha-v3.png)
 
 Each folder contains:
 - A dedicated `README.md` file with detailed steps.
